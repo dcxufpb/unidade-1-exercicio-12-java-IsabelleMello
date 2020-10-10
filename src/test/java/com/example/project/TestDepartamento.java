@@ -15,6 +15,7 @@ public class TestDepartamento {
                                                          "Idade: 30" + BREAK +
                                                          "CPF: 999.999.999-99" + BREAK;
 
+                                                         
     private String TEXTO_ESPERADO_SEM_SIGLA ="Departamento 1" + BREAK +
                                                          "" + BREAK +
                                                          "Localização: Local 1" + BREAK +
@@ -28,6 +29,7 @@ public class TestDepartamento {
                                                          "Localização: Local 1" + BREAK +
                                                          "Maurício" + BREAK +
                                                          "CPF: 999.999.999-99" + BREAK;                                                       
+                                                      
                                                          
     private String TEXTO_ESPERADO_SEM_SIGLA_SEM_IDADE ="Departamento 1" + BREAK +
                                                          "" + BREAK +
